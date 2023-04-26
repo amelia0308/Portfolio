@@ -37,8 +37,8 @@ body {
     margin: 0;
     padding: 0;
     text-align: center;
-    padding-top: 50px;
-    padding-bottom: 100px;
+    padding-top: 10px;
+    padding-bottom: 80px;
   }
   .v-effect-link li {
     display: inline-block;
@@ -105,6 +105,7 @@ p {
 .cardItem {
     margin-top: 20px;
     margin-bottom: 20px;
+    width: 350px
 }
 
 .cardImage {
